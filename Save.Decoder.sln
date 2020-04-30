@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save.Decoder", "Save.Decoder\Save.Decoder.csproj", "{51A31081-F224-45B5-BC36-229E10B6FBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Debug|x64.ActiveCfg = Debug|x64
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Debug|x64.Build.0 = Debug|x64
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Release|x64.ActiveCfg = Release|x64
+		{51A31081-F224-45B5-BC36-229E10B6FBD4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9B0A38-77C7-4AC3-B562-11A555D1F478}
+	EndGlobalSection
+EndGlobal
